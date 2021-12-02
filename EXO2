@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<head>
+<html lang ="fr">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <p style= Roboto-black>
+    <link rel="stylesheet" href="style.css">
+   
+   
+</head>
+
+<body>
+ <h2 class=presentation><ul>Bienvenue sur le site de création de site WEB</ul></h>
+
+ <header>
+  <div>
+     
+        <div class = "logo">
+          <img src="https://www.vhv.rs/file/max/31/318848_website-logo-png.png";style="float:left; width="100" height="100" alt=logo/> 
+        </div>
+      <nav>
+        <ul class="menu">
+          <li><a href="#">Accueil</a></li> 
+          <li><a href="#">A propos</a></li>
+          <li><a href="#">Services </a></li>
+          <li><a href="#">Contact</a></li>
+        </ul> 
+      </nav>
+    
+  </div>
+
+    <img src="https://www.entrenousoitdit.com/wp-content/uploads/2017/07/cr%C3%A9er-son-site-web.jpg" alt="Code" width="1450" height="150"/>
+
+</header>
+
+
+<body >
+
+    <h1> PRESENTATION DE NOS SERVICES</h1>
+    
+    <p class= par1> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      <img class=site src="https://th.bing.com/th/id/R.124fc2ae1a5fb52f5b946f3e097a2119?rik=Y5j4EXX4pAgFBQ&riu=http%3a%2f%2fwww.azuracom.com%2fuploads%2fnews%2fsite-internet-geo-experts-cavaillon.jpeg&ehk=UyZuXwQlV8FfrXy%2b2GAq3umH2Ba9hvyTo%2fcbAFapmuw%3d&risl=&pid=ImgRaw&r=0" alt="Site Web"; width ="500"; height="200"/>
+    </p>
+
+
+    <div class= titre2>
+      <h2>MODELE DE SITES WEB</h2>
+     <p class= par2> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+      </p>
+      <img src="https://www.numelion.com/wp-content/uploads/2018/08/exemple-site-internet.jpg" style=rig ; alt="HTML5 Icon" width="300" height="200"/> 
+      <img src="https://webypress.fr/wp-content/uploads/2020/01/1578737956_983_17-meilleurs-modeles-de-sites-Web-damenagement-paysager-2020.jpg" alt="Site Web"width="300" height="200"/> 
+    </div>
+
+    <div class= titre3>
+      <h2>TECHNIQUES DE CREATION DE SITES</h2>
+    </div>
+
+
+<footer>
+      <div class= Contact>
+        <h2>CONTACTS</h2>
+        <p>+225 0700000000 </p>
+        <p>la date</p>
+    </div>
+    <div=mes photos>
+      <p><img src="mettre" alt="photoraphie"></p><img src="insere" alt="Photo2"/>
+    </div>
+
+
+
+
+</footer>
+
+</body>
+
+</html>
